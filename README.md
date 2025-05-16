@@ -1,3 +1,21 @@
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&lines=Hi+I'm+Padmesh+Jakhmola;Full+Stack+Developer;AI+%2B+Real-time+Apps+Enthusiast;Loves+Clean+UIs+%26+Fast+Deploys🚀&center=true&width=700&height=50&color=4CAF50&vCenter=true&pause=1000&size=25" />
+
+
+  <a href="https://www.getmehired.world/" target="_blank">
+    <h3>
+      <span style="background: linear-gradient(90deg, #ff8a00, #e52e71, #9b00e8, #007cf0); 
+                   -webkit-background-clip: text; 
+                   -webkit-text-fill-color: transparent;
+                   font-weight: bold;">
+        🌐 Visit My Portfolio
+      </span>
+    </h3>
+  </a>
+</div>
+
+
 # 💫 About Me:
 🔭 I’m currently working on:  
 - **Hearsay** – an **AI-powered WhatsApp bot** using **Whisper**, **GPT-3.5**, and **Meta API**  
