@@ -1,3 +1,9 @@
+<h3 align="center">Hey there! I'm <b>Padmesh Jakhmola</b> 👋</h3>
+<p align="center">
+  <b>Full Stack Developer | AI & Real-time App Enthusiast</b><br/>
+  <a href="https://www.getmehired.world/" target="_blank"><br>🌐 Visit My Portfolio</b></a>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on:  
 - **Hearsay** – an **AI-powered WhatsApp bot** using **Whisper**, **GPT-3.5**, and **Meta API**  
