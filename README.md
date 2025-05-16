@@ -1,7 +1,10 @@
 <h3 align="center">Hey there! I'm <b>Padmesh Jakhmola</b> 👋</h3>
 <p align="center">
   <b>Full Stack Developer | AI & Real-time App Enthusiast</b><br/>
-  <a href="https://www.getmehired.world/" target="_blank"><br>🌐 Visit My Portfolio</b></a>
+  <a href="https://www.getmehired.world/" target="_blank">
+    <br />
+    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>
 
 # 💫 About Me:
